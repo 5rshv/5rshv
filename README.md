@@ -2,7 +2,7 @@
 #### QA engineer
 Я опытный специалист в информационных технологиях с опытом настройки компьютерной техники и сетей, а также мануального тестирования ПО.
 
-Skills: QA / PHP / JS / HTML / CSS / SQL / Postman /
+Skills: QA / PHP / HTML / CSS / SQL / Postman / Python /
 
 
 
